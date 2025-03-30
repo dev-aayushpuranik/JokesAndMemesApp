@@ -1,4 +1,4 @@
-package com.aayushpuranik.jokesandmemesapp.ui.theme
+package com.aayushpuranik.jokesandmemesapp.views.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.servicesimport retrofit2.http.GETimport javax.inject.Injectinterface ApiService {    @GET("categories")    suspend fun getCategories(): List<String>?}

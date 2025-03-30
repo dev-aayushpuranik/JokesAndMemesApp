@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.viewsimport android.app.Applicationimport dagger.hilt.android.HiltAndroidApp@HiltAndroidAppclass JokesAndMemesApplication: Application() {}
