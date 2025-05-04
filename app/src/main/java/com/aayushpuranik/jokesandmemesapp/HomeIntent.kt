@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesappsealed class HomeIntent {    object LoadAllJokes: HomeIntent()}

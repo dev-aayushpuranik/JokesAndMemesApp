@@ -1,1 +1,1 @@
-package com.aayushpuranik.jokesandmemesapp.coreimport kotlinx.serialization.Serializableobject Destination {    @Serializable data object Home    @Serializable data object Second}
+package com.aayushpuranik.jokesandmemesapp.coreimport kotlinx.serialization.Serializableobject Destination {    @Serializable data object Home    @Serializable data object Second    @Serializable data object Favourites    @Serializable data object Settings}

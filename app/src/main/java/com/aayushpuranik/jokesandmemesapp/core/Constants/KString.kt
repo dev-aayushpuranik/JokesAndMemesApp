@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.core.Constantsobject KString {    const val jokesBaseUrl: String = "https://api.sampleapis.com/"}

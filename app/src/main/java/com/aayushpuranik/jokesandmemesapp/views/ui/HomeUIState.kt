@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.views.uiimport com.aayushpuranik.jokesandmemesapp.models.JokeModeldata class HomeUIState(    val IsLoading: Boolean = false,    val LoadAllJokes: Map<String, List<JokeModel>>? = null,    val ErrorMessage: String? = null)

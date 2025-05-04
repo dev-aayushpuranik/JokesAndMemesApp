@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.modelsimport kotlinx.serialization.Serializable@Serializabledata class JokeModel(    val id: Int,    val type: String,    val setup: String,    val punchline: String,    var isLiked: Boolean = false,)

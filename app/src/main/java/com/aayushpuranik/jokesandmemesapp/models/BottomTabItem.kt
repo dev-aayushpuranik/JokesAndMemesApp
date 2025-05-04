@@ -1,0 +1,1 @@
+package com.aayushpuranik.jokesandmemesapp.modelsimport androidx.compose.ui.graphics.vector.ImageVectordata class BottomTabItem(    val title: String,    val icon: ImageVector,    val isSelected: Boolean)
