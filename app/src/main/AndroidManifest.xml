@@ -16,9 +16,8 @@
         android:theme="@style/Theme.JokesAndMemesApp"
         tools:targetApi="31">
         <activity
-            android:name=".views.MainActivity"
+            android:name=".views.ui.MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.JokesAndMemesApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
